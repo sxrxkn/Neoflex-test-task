@@ -1,0 +1,28 @@
+.header {
+    width: 1135px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.header__name__p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #101010;
+    margin: 8px;
+
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    margin: 15px;
+}
+
+.header__nav__logo-1 {
+    margin-top: 3px;
+}
+

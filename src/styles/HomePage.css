@@ -1,0 +1,32 @@
+.home {
+    width: 1110px;
+    margin: 0 auto;
+    position: relative;
+    min-height: 100vh;
+    box-sizing: border-box;
+    padding-bottom: 180px;
+}
+
+.home-main {
+    padding: 20px 0;
+}
+
+.home-main__h1{
+    width: 100%;
+    margin-bottom: 26px;
+}
+
+.home-main__h1 h1{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #838383;
+}
+
+.home-main__showcase {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 40px;
+}
